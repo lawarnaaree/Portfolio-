@@ -29,8 +29,8 @@ const Projects = () => {
             image: '/projects/tasks.jpg',
             tags: ['React', 'Firebase', 'Flutter'],
             category: 'mobile',
-            github: 'https://github.com',
-            live: 'https://example.com',
+            github: 'https://github.com/namratacutie',
+            live: 'https://shoyambhumotors.com.np/',
             featured: false
         }
     ];
