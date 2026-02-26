@@ -39,7 +39,7 @@ const Projects = () => {
             description: 'Chess game made with react and firebase with real-time functions.',
             image: '/projects/tasks.jpg',
             tags: ['React', 'Firebase'],
-            category: 'mobile', 'desktop',
+            category: ['mobile', 'desktop'],
             github: 'https://github.com/namratacutie/Chess-Game',
             live: 'https://raspberrypi.tail7c6a42.ts.net/chess-game/',
             featured: false
