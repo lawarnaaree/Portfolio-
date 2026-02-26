@@ -17,9 +17,9 @@ const Projects = () => {
             description: 'Interactive 3D portfolio website template with Three.js animations and immersive experience.',
             image: '/projects/portfolio.jpg',
             tags: ['React', 'Three.js', 'GSAP'],
-            category: 'web',
-            github: 'https://github.com',
-            live: 'https://example.com',
+            category: 'web', 'mobile'
+            github: 'https://github.com/namratacutie/Portfolio-',
+            live: 'https://raspberrypi.tail7c6a42.ts.net/',
             featured: true
         },
         {
