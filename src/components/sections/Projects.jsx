@@ -163,7 +163,7 @@ const Projects = () => {
 
                 {/* View All Button */}
                 <div className="projects-cta">
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="btn btn-outline hoverable">
+                    <a href="https://github.com/namratacutie" target="_blank" rel="noopener noreferrer" className="btn btn-outline hoverable">
                         View All Projects on GitHub
                         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                             <path d="M5 12h14M12 5l7 7-7 7" />
