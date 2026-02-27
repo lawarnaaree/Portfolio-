@@ -43,6 +43,16 @@ const Projects = () => {
             github: 'https://github.com/namratacutie/Chess-Game',
             live: 'https://raspberrypi.tail7c6a42.ts.net/chess-game/',
             featured: false
+        }, {
+            id: 4,
+            title: 'Avvo Clone',
+            description: 'Clon site of avvo.com',
+            image: '/projects/tasks.jpg',
+            tags: ['React', 'Firebase'],
+            category: ['mobile', 'web'],
+            github: 'https://github.com/namratacutie/Avvo-Clone',
+            live: 'https://raspberrypi.tail7c6a42.ts.net/avvo-clone/',
+            featured: false
         }
     ];
 
