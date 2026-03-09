@@ -45,13 +45,13 @@ const Projects = () => {
             featured: false
         }, {
             id: 4,
-            title: 'Avvo Clone',
-            description: 'Clon site of avvo.com',
+            title: 'Find Lawyer Nepal',
+            description: 'Find attorneys all over the Nepal.',
             image: '/projects/tasks.jpg',
             tags: ['React', 'Firebase'],
             category: ['mobile', 'web'],
             github: 'https://github.com/namratacutie/Avvo-Clone',
-            live: 'https://raspberrypi.tail7c6a42.ts.net/avvo-clone/',
+            live: 'https://raspberrypi.tail7c6a42.ts.net/find-lawyer-nepal/',
             featured: false
         }
     ];
