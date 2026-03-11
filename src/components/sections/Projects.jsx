@@ -18,7 +18,7 @@ const Projects = () => {
             image: '/projects/portfolio.jpg',
             tags: ['React', 'Three.js', 'GSAP'],
             category: ['web', 'mobile'],
-            github: 'https://github.com/namratacutie/Portfolio-',
+            github: 'https://github.com/lawarnaaree/Portfolio-',
             live: 'https://raspberrypi.tail7c6a42.ts.net/',
             featured: true
         },
@@ -29,7 +29,7 @@ const Projects = () => {
             image: '/projects/tasks.jpg',
             tags: ['React', 'Firebase', 'Flutter'],
             category: 'mobile',
-            github: 'https://github.com/namratacutie',
+            github: 'https://github.com/lawarnaaree',
             live: 'https://shoyambhumotors.com.np/',
             featured: false
         },
@@ -40,7 +40,7 @@ const Projects = () => {
             image: '/projects/tasks.jpg',
             tags: ['React', 'Firebase'],
             category: ['mobile', 'web'],
-            github: 'https://github.com/namratacutie/Chess-Game',
+            github: 'https://github.com/lawarnaaree/Chess-Game',
             live: 'https://raspberrypi.tail7c6a42.ts.net/chess-game/',
             featured: false
         }, {
@@ -50,7 +50,7 @@ const Projects = () => {
             image: '/projects/tasks.jpg',
             tags: ['React', 'Firebase'],
             category: ['mobile', 'web'],
-            github: 'https://github.com/namratacutie/Avvo-Clone',
+            github: 'https://github.com/lawarnaaree/Avvo-Clone',
             live: 'https://raspberrypi.tail7c6a42.ts.net/find-lawyer-nepal/',
             featured: false
         }
